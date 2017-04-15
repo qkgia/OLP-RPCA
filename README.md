@@ -22,5 +22,6 @@ This is the repository for Online Non-Convex ℓp-norm Robust PCA (OLP-RPCA). Th
 
 ### Resources
 
-0. Video Inpainting results: [GoogleDrive](https://onedrive.live.com/?authkey=%21ABB_CV2zvCEoNK0&id=F371D9563727B96F%2192190&cid=F371D9563727B96F)
+0. Video Inpainting results: [Dropbox](https://www.dropbox.com/s/w3ti8i7eg7it35n/Video_inpainting_demo.mp4?dl=0)
+0. Real-time Background subtraction results: [Dropbox](https://www.dropbox.com/sh/rqneam8659js80k/AAByj0oBtX4V4D-4h_WBviXXa?dl=0)
 0. Code of OLP-RPCA is coming soon!
