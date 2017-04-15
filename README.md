@@ -17,8 +17,8 @@ This is the repository for Online Non-Convex ℓp-norm Robust PCA (OLP-RPCA). Th
         Publisher = {Elsevier}
      }
 
-<img src='data/result_imgs/bkg_subtraction.png' width='300'>
-<img src='data/result_imgs/face_modeling.png' width='300'>
+<img src='data/result_imgs/bkg_subtraction.png' width='100%'>
+<img src='data/result_imgs/face_modeling.png' width='80%'>
 
 ### Resources
 
