@@ -95,7 +95,7 @@ d_norm = norm(D, 'fro');
 
 w = ones(m, n);
 v = ones(min(m, n), 1);
-epsilon = 1e-4;%p * lambda;%eps(D);
+epsilon = 1e-4;
 
 iter = 0;
 total_svd = 0;
