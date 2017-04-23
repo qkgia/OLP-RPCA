@@ -1,4 +1,4 @@
-function [A_hat, E_hat, iter, err] = nrpca(D, opts)%lambda, tol, maxIter, mu_t, rho)
+function [A_hat, E_hat, iter, err] = nrpca(D, opts)
 
 % April 2017
 % This matlab code implements the Lp-RPCA method described in
